@@ -1,0 +1,17 @@
+@charset "UTF-8";
+#table {
+	width: 100%;
+	background-color: rgba(255, 255, 255);
+}
+
+#banner, #bottomBar {
+	column-span: 2;
+}
+
+#sideBar {
+	width: 30%;
+}
+
+#data {
+	width: 70%;
+}
